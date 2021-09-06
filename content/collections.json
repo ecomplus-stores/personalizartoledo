@@ -19,6 +19,14 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "document-banner",
+      "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/jjjj.jpg"
     }
   ]
 }
