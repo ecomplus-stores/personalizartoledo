@@ -27,6 +27,17 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/jjjj.jpg"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-09-06T20:21:27.740Z",
+          "end": "2021-09-06T20:21:27.763Z",
+          "img": "/img/uploads/jjjj.jpg"
+        }
+      ]
     }
   ]
 }
