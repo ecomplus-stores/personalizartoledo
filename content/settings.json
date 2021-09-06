@@ -1,7 +1,7 @@
 {
   "domain": "personalizartoledo.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#0a377b",
+  "primary_color": "#770b7f",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
