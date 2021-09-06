@@ -1,24 +1,24 @@
 {
-  "store_id": 8186,
-  "name": "personalizartoledo",
   "domain": "personalizartoledo.netlify.app",
-  "short_name": "personalizartoledo",
-  "description": "personalizartoledo",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#0a377b",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/personalizartoledo",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "personalizartoledo",
+  "short_name": "personalizartoledo",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/personalizartoledo"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 8186,
+  "description": "personalizartoledo",
+  "large_icon": "/img/large-icon.png"
 }
